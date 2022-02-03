@@ -1,0 +1,16 @@
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\StaticEXE1.exe
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\StaticEXE1.deps.json
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\StaticEXE1.runtimeconfig.json
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\StaticEXE1.runtimeconfig.dev.json
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\StaticEXE1.dll
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\ref\StaticEXE1.dll
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\bin\Debug\net5.0\StaticEXE1.pdb
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.AssemblyInfoInputs.cache
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.AssemblyInfo.cs
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.dll
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\ref\StaticEXE1.dll
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.pdb
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.genruntimeconfig.cache
+C:\Users\forre\repos\StaticEXE1\StaticEXE1\obj\Debug\net5.0\StaticEXE1.csproj.AssemblyReference.cache
